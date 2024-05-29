@@ -1,7 +1,7 @@
 var font;
 var vehicles = [];
 let fontSize = 180;
-let words = ['LU', 'LUM', 'MUSM', '143'];
+let words = ['SAYANG', 'MORNING', 'I <3 U', 'COMEL LAH', 'SAYANG KAU' ];
 let item = 0;
 
 function preload() {
